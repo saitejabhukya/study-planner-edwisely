@@ -57,7 +57,15 @@ Result confirmed my Priority Score formula works correctly.
 - Design: Figma
 
 ## Wireframe
-[Add your wireframe screenshot link here]
+[Add your wireframe screenshot link here
+<img width="915" height="654" alt="ed1" src="https://github.com/user-attachments/assets/12ec1e40-ec2a-4649-8df1-c4664721ee10" />
+
+<img width="907" height="575" alt="ed2" src="https://github.com/user-attachments/assets/3778507c-62d6-49ac-8e42-9f6f313f1462" />
+
+<img width="917" height="434" alt="ed3" src="https://github.com/user-attachments/assets/053ba0b7-f094-4bb3-a683-8e2419a8eb25" />
+
+<img width="982" height="723" alt="image" src="https://github.com/user-attachments/assets/ecafa0c7-6c4f-45df-a685-2078057dacd9" />
+
 
 ## Video Walkthrough
 [Add your Loom link here]
