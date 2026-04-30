@@ -51,10 +51,14 @@ Result confirmed my Priority Score formula works correctly.
 - Session timestamps logged to detect impossible completion times
 
 ## Tech Stack
-- Frontend: JavaScript / ReactJS
-- Backend: Python
-- LLM: ChatGPT API
-- Design: Figma
+Tech Stack (Proposed)
+
+Frontend: ReactJS (proposed as per problem requirements)
+Backend: Python (proposed as per problem requirements)
+AI Planning Engine: Claude API by Anthropic
+LLM Validation: ChatGPT
+Design: Figma (6 screen wireframes)
+Repository: GitHub
 
 ## Wireframe
 
