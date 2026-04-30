@@ -57,7 +57,7 @@ Result confirmed my Priority Score formula works correctly.
 - Design: Figma
 
 ## Wireframe
-[Add your wireframe screenshot link here
+
 <img width="915" height="654" alt="ed1" src="https://github.com/user-attachments/assets/12ec1e40-ec2a-4649-8df1-c4664721ee10" />
 
 <img width="907" height="575" alt="ed2" src="https://github.com/user-attachments/assets/3778507c-62d6-49ac-8e42-9f6f313f1462" />
